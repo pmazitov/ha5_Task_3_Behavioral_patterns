@@ -1,0 +1,1 @@
+# ha5_Task_3_Behavioral_patterns
